@@ -7,6 +7,7 @@ gem 'rails', '3.0.3'
 
 #gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'mongo_mapper'
+gem 'bson_ext'
 
 # Use unicorn as the web server
 # gem 'unicorn'

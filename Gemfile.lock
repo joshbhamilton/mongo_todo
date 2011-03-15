@@ -30,6 +30,7 @@ GEM
     activesupport (3.0.3)
     arel (2.0.9)
     bson (1.2.4)
+    bson_ext (1.2.4)
     builder (2.1.2)
     erubis (2.6.6)
       abstract (>= 1.0.0)
@@ -81,6 +82,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bson_ext
   mocha
   mongo_mapper
   nifty-generators
